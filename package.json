@@ -1,0 +1,22 @@
+{
+  "name": "test-npm",
+  "version": "1.0.0",
+  "description": "testing npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamgothmann/npm-test.git"
+  },
+  "author": "Adam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamgothmann/npm-test/issues"
+  },
+  "homepage": "https://github.com/adamgothmann/npm-test#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
